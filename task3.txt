@@ -1,0 +1,7 @@
+Beginner 
+
+task3 : 
+
+the static page has a static content that doesn not change otherwise when changing its code by the owner and it deal directly with the user. 
+
+dynamic page always gets fresh content and dealing with the user using database.

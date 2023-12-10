@@ -1,0 +1,5 @@
+Beginner
+
+task1 : 
+
+when a client click on a link , the browser connect the server by its IP and send it a http request , then the server send a http response to the browser.

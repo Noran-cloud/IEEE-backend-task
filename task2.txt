@@ -1,0 +1,5 @@
+Beginner
+
+task2 : 
+
+it is a device receive requests from clients and process it by dealing with database and then send an html page as a http respond.
